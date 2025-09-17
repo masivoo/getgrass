@@ -18,7 +18,7 @@
 
 For any questions, issues, or proxy inquiries:
 
-[![Contact on Telegram](https://img.shields.io/badge/Telegram-Contact%20@t6nix-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/t6nix)
+[![Contact on Telegram](https://img.shields.io/badge/Telegram-Contact%20@t6nix-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/t8nix)
 
 **Contact @t6nix for:**
 - Technical support
